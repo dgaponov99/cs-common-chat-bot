@@ -1,0 +1,5 @@
+python-telegram-bot~=13.14
+p5.aiogoldsrcrcon~=0.0.3
+vk_api~=11.9.9
+asyncio~=3.4.3
+mysql-connector-python~=8.0.31
